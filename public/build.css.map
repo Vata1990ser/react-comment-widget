@@ -1,0 +1,1 @@
+{"version":3,"file":"build.css","mappings":"AAAA;EACE,UAAU;AACZ","sources":["webpack://react-comment-widget/./src/css/style.css"],"sourcesContent":["#app {\r\n  color: red;\r\n}\r\n"],"names":[],"sourceRoot":""}
